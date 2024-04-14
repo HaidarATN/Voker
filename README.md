@@ -8,4 +8,15 @@ Build .exe zip files : https://drive.google.com/file/d/157vC2eE-ZHrHgDs4m26wV9qv
 
 
 Screenshot :
-![Alt text](main/Image/MainMenu0.png?raw=true "Optional Title")
+![Alt text](https://github.com/HaidarATN/Voker/blob/main/Image/MainMenu0.png?raw=true "Main Menu")
+
+![Alt text](https://github.com/HaidarATN/Voker/blob/main/Image/MainMenu1.png?raw=true "Main Menu")
+
+![Alt text](https://github.com/HaidarATN/Voker/blob/main/Image/MainMenu2.png?raw=true "Main Menu")
+
+![Alt text](https://github.com/HaidarATN/Voker/blob/main/Image/Gameplay0.png?raw=true "Gameplay")
+
+![Alt text](https://github.com/HaidarATN/Voker/blob/main/Image/Gameplay1.png?raw=true "Gameplay")
+
+
+
